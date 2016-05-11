@@ -1,4 +1,5 @@
 # Snaptron
+-----------------------
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://vk.com/zorianiy_sapfir)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](https://ua.linkedin.com/in/yaroslavpidmphylniy)
@@ -7,10 +8,18 @@
 
 -----------------------
 
-####A minimal free cross-platform desktop app, using API of different popular photo-communities, like:
+###A minimal free cross-platform desktop app, using API of different popular photo-communities, like:<br/><br/>
 - [Instagram](https://www.instagram.com)
-- [500px](https://500px.com)
+  <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/instagram.svg"><br/><br/>
+- [500px](https://500px.com) 
+  <img src="https://rawgit.com/yarossia/Snaptron/master/app/assets/svg/500px.svg"><br/><br/><br/>
 - [Flickr](https://www.flickr.com)
+  <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/flickr.svg"><br/><br/>
 - [Unsplash](https://www.flickr.com)
+  <img src="http://officeto-go.com/wp-content/uploads/2015/10/Unsplash.png">
+
+-----------------------
+###We are using:
+<img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/react.svg"> <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/macosx.svg"> <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/electron.svg">
 
 -----------------------
