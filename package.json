@@ -1,10 +1,10 @@
 {
   "name": "snaptron",
   "version": "0.1.0",
-  "description": "A minimal Instagram application",
-  "main": "./app/main.js",
+  "description": "A minimal desktop app based on Electron.js",
+  "main": "./core/main.js",
   "scripts": {
-    "start": "electron ./app/main.js"
+    "start": "electron ./core/main.js"
   },
   "repository": {
     "type": "git",
