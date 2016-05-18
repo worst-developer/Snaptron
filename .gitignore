@@ -28,6 +28,8 @@ node_modules
 
 public/built
 
+core/assets/logos
+
 # Temp files
 .DS_Store
 
@@ -41,7 +43,7 @@ dist-x64
 dist-ia32
 win64-dist
 Brave.tar.bz2
-
+releases
 app/extensions/brave/gen
 *.pfx
 buildConfig.js

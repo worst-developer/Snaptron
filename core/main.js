@@ -12,7 +12,8 @@ app.on('window-all-closed', function() {
 });
 
 app.on('ready', function() {
-  mainWindow = new BrowserWindow({width: 1280, height: 720});
+  console.log(__dirname);
+  mainWindow = new BrowserWindow({width: 1280, height: 720, icon: __dirname + '/assets/logos/app.icns'});
 
   mainWindow.loadURL(`file://${__dirname}/assets/public_html/index.html`);
   mainWindow.webContents.openDevTools();

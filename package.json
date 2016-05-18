@@ -4,6 +4,7 @@
   "description": "A minimal desktop app based on Electron.js",
   "main": "./core/main.js",
   "scripts": {
+    "package": "electron-packager . Snaptron --overwrite --platform=darwin --arch=x64 --version=1.1.0 --asar=true --icon=core/assets/logos/app.icns  --out='/Users/yrossia/Desktop/snaptron/releases' --ignore='coverage'",
     "start": "electron ./core/main.js"
   },
   "repository": {
