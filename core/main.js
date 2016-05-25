@@ -15,7 +15,7 @@ app.on('ready', function() {
   console.log(__dirname);
   mainWindow = new BrowserWindow({width: 1280, height: 720});
 
-  mainWindow.loadURL(`file://${__dirname}/assets/public_html/index.html`);
+  mainWindow.loadURL(`file://${__dirname}/assets/templates/index.html`);
   mainWindow.webContents.openDevTools();
 
   mainWindow.on('closed', function() {
