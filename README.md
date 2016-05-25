@@ -23,3 +23,9 @@
 <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/react.svg"> <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/macosx.svg"> <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/electron.svg">
 
 -----------------------
+=======
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+**A minimal free cross-platform desktop app, using API of different popular photo-communities**
+
+>>>>>>> Update README.md
