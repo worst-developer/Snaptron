@@ -9,8 +9,6 @@
 -----------------------
 
 ###A minimal free cross-platform desktop app, using API of different popular photo-communities, like:<br/><br/>
-- [Instagram](https://www.instagram.com)
-  <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/instagram.svg"><br/><br/>
 - [500px](https://500px.com)
   <img src="https://rawgit.com/yarossia/Snaptron/master/app/assets/svg/500px.svg"><br/><br/><br/>
 - [Flickr](https://www.flickr.com)
@@ -23,4 +21,3 @@
 <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/react.svg"> <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/macosx.svg"> <img src="https://cdn.rawgit.com/yarossia/Snaptron/master/app/assets/svg/electron.svg">
 
 -----------------------
-
