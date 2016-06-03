@@ -22,7 +22,7 @@ gulp.task('ts:build', () => (
     })
     .on("error", notify.onError({
         message: "Error: <%= error.message %>",
-        title: "Error building TypeScrip"
+        title: "Error building TypeScript"
     })))
     .pipe(gulp.dest(options.target))
 ));
