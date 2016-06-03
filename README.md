@@ -8,7 +8,7 @@
 
 -----------------------
 
-###A minimal free cross-platform desktop app, using API of different popular photo-communities, like:<br/><br/>
+###A minimal free cross-platform desktop app, made to combine different services in one awesome app, using API of different popular photo-communities, like:<br/><br/>
 - [500px](https://500px.com)
   <img src="https://rawgit.com/yarossia/Snaptron/master/app/assets/svg/500px.svg"><br/><br/><br/>
 - [Flickr](https://www.flickr.com)
