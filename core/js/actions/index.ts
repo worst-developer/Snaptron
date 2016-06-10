@@ -1,6 +1,8 @@
 import {CALL_API, getJSON} from 'redux-api-middleware';
 
-import Constants from '..utils/constants';
+import * as React from 'react';
+
+import Constants from '../utils/constants';
 
 
 // Authentication

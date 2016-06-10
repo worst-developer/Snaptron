@@ -13,12 +13,17 @@ gulp.task('ts:build', () => (
     gulp.src(options.source)
     .pipe(ts({
       outFile: 'bundle.js',
+      allowSyntheticDefaultImports: true,
       noImplicitAny: false,
       target: 'ES6',
       module: 'commonjs',
       jsx: 'react',
+      allowJs: true,
+      "preserveConstEnums": true,
+      "moduleResolution": "node",
+      "pretty": true,
       removeComments: true,
-      experimentalDecorators: true,
+      experimentalDecorators: true
     })
     .on("error", notify.onError({
         message: "Error: <%= error.message %>",
